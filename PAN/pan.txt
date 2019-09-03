@@ -3,3 +3,6 @@ echo "hello irfan"
 echo "how are you"
 
 echo " where are you"
+
+echo "alhamdulillah"
+ echo "i am in hyd"
